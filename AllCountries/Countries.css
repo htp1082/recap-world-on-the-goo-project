@@ -6,3 +6,12 @@
 .left{
     text-align: left;
 }
+
+.imgae{
+    width: 20px;
+    height: 20px;
+    margin: 100px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
